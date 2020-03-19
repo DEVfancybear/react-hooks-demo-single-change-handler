@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+form {
+  padding: 16px;
+  border: 1px solid #ccc;
+}
+label,
+input,
+textarea,
+select {
+  display: block;
+  width: 100%;
+}
+input,
+textarea,
+select {
+  line-height: 24px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+input,
+select {
+  height: 24px;
+}
+input[type="checkbox"],
+input[type="radio"] {
+  position: relative;
+  bottom: -2px;
+  display: inline-block;
+  height: 16px;
+  width: 16px;
+  margin-left: 8px;
+}
+textarea {
+  height: 48px;
+}
+pre {
+  background: #efefef;
+  padding: 16px;
+  border-radius: 4px;
+  white-space: pre-wrap;
+  overflow: hidden;
+}
+.app {
+  width: 320px;
+  max-width: 100%;
+  margin: 32px auto;
+}
+.heading {
+  display: inline-block;
+  font-weight: bold;
+  margin: 16px 0 8px 0;
+}
