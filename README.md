@@ -1,10 +1,2 @@
-## What is the demo
+### [LIVE DEMO](https://devfancybear.github.io/react-hooks-demo-single-change-handler/)
 
-Simple demo to show handling multiple inputs and input types in a single form change handler in React.
-
-## To Run
-
-```
-npm install
-npm start
-```
