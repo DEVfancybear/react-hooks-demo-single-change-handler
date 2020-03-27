@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DEVfancybear/react-hooks-demo-single-change-handler/static/css/main.ca140e72.chunk.css",
+    "main.js": "/DEVfancybear/react-hooks-demo-single-change-handler/static/js/main.03c594c4.chunk.js",
+    "main.js.map": "/DEVfancybear/react-hooks-demo-single-change-handler/static/js/main.03c594c4.chunk.js.map",
+    "runtime-main.js": "/DEVfancybear/react-hooks-demo-single-change-handler/static/js/runtime-main.92b70347.js",
+    "runtime-main.js.map": "/DEVfancybear/react-hooks-demo-single-change-handler/static/js/runtime-main.92b70347.js.map",
+    "static/js/2.e5cfb2c4.chunk.js": "/DEVfancybear/react-hooks-demo-single-change-handler/static/js/2.e5cfb2c4.chunk.js",
+    "static/js/2.e5cfb2c4.chunk.js.map": "/DEVfancybear/react-hooks-demo-single-change-handler/static/js/2.e5cfb2c4.chunk.js.map",
+    "index.html": "/DEVfancybear/react-hooks-demo-single-change-handler/index.html",
+    "precache-manifest.071aabb862c0439f89a8ec0e02f846d2.js": "/DEVfancybear/react-hooks-demo-single-change-handler/precache-manifest.071aabb862c0439f89a8ec0e02f846d2.js",
+    "service-worker.js": "/DEVfancybear/react-hooks-demo-single-change-handler/service-worker.js",
+    "static/css/main.ca140e72.chunk.css.map": "/DEVfancybear/react-hooks-demo-single-change-handler/static/css/main.ca140e72.chunk.css.map",
+    "static/js/2.e5cfb2c4.chunk.js.LICENSE.txt": "/DEVfancybear/react-hooks-demo-single-change-handler/static/js/2.e5cfb2c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92b70347.js",
+    "static/js/2.e5cfb2c4.chunk.js",
+    "static/css/main.ca140e72.chunk.css",
+    "static/js/main.03c594c4.chunk.js"
+  ]
+}
